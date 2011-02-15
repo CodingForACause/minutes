@@ -8,8 +8,8 @@ Sample text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent e
 - Another list item
 - One more
 
-> Some quoted text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu nisl nec nibh euismod egestas eget sed libero. Nam facilisis felis eget justo interdum in fringilla risus suscipit.
-
 ## Another Sub Header ##
+
+More sample text. Donec sagittis iaculis felis in euismod. Mauris luctus nunc porta risus viverra id condimentum mauris congue. Integer augue tortor, condimentum quis pharetra in, vestibulum ut nibh.
 
 Full Markdown guide here: <http://github.github.com/github-flavored-markdown/>
